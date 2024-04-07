@@ -38,7 +38,7 @@ public class TrainingRecordGUI extends JFrame implements ActionListener {
     public static void main(String[] args) {
         TrainingRecordGUI applic = new TrainingRecordGUI();
     } // main
-
+// This is kldgjsdfkl
     // set up the GUI 
     public TrainingRecordGUI() {
         super("Training Record");
